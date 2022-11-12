@@ -9,3 +9,6 @@ https://sourceforge.net/projects/bochs/files/bochs/2.6.2/bochs-2.6.2.tar.gz/down
 
 # chapter2
 ![图片](images/chapter2.png)
+
+# chapter3
+![图片](images/chapter3.png)
